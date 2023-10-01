@@ -1,5 +1,5 @@
-# -diary
-my personal diary app
+#SpaceTimeMemory
+my personal space time memory 
 
 i open the app and see a map https://pub.dev/packages/flutter_map With open street map
 I can click on plus to add a new diary entry
