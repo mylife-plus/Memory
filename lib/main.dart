@@ -67,7 +67,7 @@ class MyApp extends StatelessWidget {
         "Data":(BuildContext context)=> const DataSettingsScreen(),
         "MemorySettings": (BuildContext context) => const MemorySettingsScreen()
       },
-      initialRoute: isOnboarded?"setup":"home",
+      initialRoute: "setup",
     );
   }
 }
